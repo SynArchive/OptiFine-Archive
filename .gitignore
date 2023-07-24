@@ -1,2 +1,4 @@
 
 .DS_Store
+# Ignore this folder because of how scraper works
+beta/

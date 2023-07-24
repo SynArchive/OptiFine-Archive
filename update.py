@@ -41,5 +41,5 @@ def download_from_optifinecn():
             time.sleep(5)
 
 if __name__ == '__main__':
-    # download_from_bmclapi2()
+    download_from_bmclapi2()
     download_from_optifinecn()
